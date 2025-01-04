@@ -2,9 +2,9 @@
 Lecturer: 林
 
 ## HW1
-<div align="center">
-  <img src="./demo/1.png" style="width:1000px;" align="center">
-</div>  
+<p align="center">
+  <img src="./demo/1.png" alt="demo" width="45%">
+</p>
 
 ## HW2: OpenGL Shaders and GLSL
 <p align="center">
