@@ -1,6 +1,11 @@
 # Intro. to Computer Graphics, 2024 Fall @ NYCU
 Lecturer: 林
 
+## Requirements
+- G++
+- CMake
+- VS Code and CMake Tools Extension
+
 ## HW1
 <p align="center">
   <img src="./demo/1.png" alt="demo" width="45%">
@@ -20,7 +25,7 @@ Lecturer: 林
   <img src="./demo/32.png" alt="glass" width="45%">
 </p>
 
-## HW4: Geometry Shader and Final Project
+## HW4: Geometry Shader and The Final Project
 
 <p align="center">
   <img src="./demo/41.png" alt="dup" width="45%">
