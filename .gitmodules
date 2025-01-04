@@ -1,0 +1,6 @@
+[submodule "HW0/extern/glm"]
+	path = HW0/extern/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "HW0/extern/glfw"]
+	path = HW0/extern/glfw
+	url = https://github.com/glfw/glfw.git
